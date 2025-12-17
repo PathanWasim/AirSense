@@ -146,6 +146,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-<div align="center">
-  <strong>Built with ❤️ for cleaner air and healthier communities</strong>
-</div>
